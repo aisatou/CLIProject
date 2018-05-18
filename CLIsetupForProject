@@ -1,0 +1,42 @@
+User
+Product
+Company
+
+
+- type of skin
+- type of product
+- links (YouTube, Amazon Affiliates, etc)
+- "favorites"
+- "recently viewed"
+
+https://www.sephora.com/search/search.jsp?keyword=natural%20primer&mode=all
+
+STEPS:
+- start the app
+- welcome message
+  * sign up/login
+- prompt user for
+  * skin care
+    * SKIN TYPE
+      * dry
+      * oily
+      * mix
+    * HOW MUCH TIME?
+      * >15 min (short & sweet)
+      * >=30 min (just right)
+      * > 1hr (thorough??)
+  * OR makeup
+    * PRODUCT TYPE
+      * primer
+      * highlight
+      * concealer
+      * foundation
+      * eye products
+    * SUB PRODUCT TYPE QUESTIONS
+      * undertone (cool, neutral, warm)
+      * type of look (glam, natural)
+  - recommendations
+  - features
+    * favorites
+    * site links
+    * YouTube links
